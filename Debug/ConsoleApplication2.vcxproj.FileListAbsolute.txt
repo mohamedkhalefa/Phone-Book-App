@@ -1,0 +1,3 @@
+C:\Users\Mohammad Khalefa\Desktop\m\m\ConsoleApplication2\Debug\ConsoleApplication2.exe
+D:\My_projects\ConsoleApplication2\Debug\ConsoleApplication2.exe
+D:\My_projects\phone_book_app\Debug\ConsoleApplication2.exe
